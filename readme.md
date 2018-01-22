@@ -4,4 +4,4 @@
 
 ### Here's a simple diagram representing the architecture used to automate updating hte website on S3.
 
-![alt text](https://github.com/Pajkouisn/Website/PushFromGithubToS3.PNG "Push From Github To S3")
+![Diagram](https://github.com/Pajkouisn/Website/raw/master/PushFromGithubToS3.PNG "Push From Github To S3")
